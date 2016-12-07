@@ -16,12 +16,12 @@
         "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",

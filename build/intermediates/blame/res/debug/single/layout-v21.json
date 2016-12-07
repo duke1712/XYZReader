@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/layout-v21/fragment_article_detail.xml",
+        "source": "/home/prittesh/Studio Projects/P5/XYZReader/src/main/res/layout-v21/fragment_article_detail.xml"
+    },
+    {
         "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
     },

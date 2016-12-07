@@ -40,12 +40,12 @@
         "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/prittesh/Studio Projects/P5/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
